@@ -10,7 +10,7 @@ This project requires you to develop a website template viewer. The template vie
 * Create a back-end API implementation with NodeJS/Express
 
 ### Reference ###
-![Example Filmstrip](https://github.com/techpacker/filmstrip-view/images/reference.png)
+![Example Filmstrip](https://github.com/techpacker/filmstrip-view/blob/main/images/reference.png)
 
 ### Feature Requirements ###
 
